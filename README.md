@@ -1,13 +1,6 @@
-# **Created by nil#7056**
+# **Created by Edwincik**
 
-### [DISCORD SUPPORT SERVER](https://discord.gg/5fnpvJaBqh)
-
----
-                  
-### [Notify Preview]
-![image](https://media.discordapp.net/attachments/1043264829722480681/1078942562792001566/Screenshot_9.png?width=1123&height=630)
-
----
+### [DISCORD SUPPORT SERVER](https://discord.gg/azuredev)
 
 ## SETUP INSTRUCTIONS 
 Please Make a backup file for **qb-core/client/functions** file that you change. I am not responsible for any damage you do to your files/server. 
